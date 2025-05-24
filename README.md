@@ -1,4 +1,4 @@
-# go-serror
+# go-serror [![Go Reference](https://pkg.go.dev/badge/github.com/skaji/go-serror.svg)](https://pkg.go.dev/github.com/skaji/go-serror)
 
 serror is errors with sources
 
